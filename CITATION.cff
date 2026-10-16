@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Dacă folosești aceste date, citează-le astfel. / If you use this data, please cite it as below."
+title: "Sentimentul știrilor - indici ai sentimentului presei românești despre economie"
+type: dataset
+authors:
+  - family-names: "Pineta"
+    given-names: "Vlad"
+    affiliation: "Academia de Studii Economice din București"
+    orcid: "https://orcid.org/0009-0002-4816-8921"
+license: CC-BY-4.0
+url: "https://sentimentulstirilor.ro"
+repository-code: "https://github.com/vladipineta/sentimentulstirilor"
+keywords:
+  - sentiment analysis
+  - natural language processing
+  - Romanian
+  - news
+  - economics
+  - text-as-data
+date-released: "2026-10-16"
