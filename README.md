@@ -1,4 +1,5 @@
 # Sentimentul știrilor
+   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23418996.svg)](https://doi.org/10.5281/zenodo.23418996)
 
 **Indici ai sentimentului presei românești despre economie** · 🌐 [sentimentulstirilor.ro](https://sentimentulstirilor.ro) · 🇬🇧 [English](https://sentimentulstirilor.ro/en)
 
